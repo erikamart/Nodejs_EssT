@@ -19,4 +19,4 @@ console.log("Hello World");
 // golobal.console.log(hello);
 
 // **************
-// Everything on the global object is as you would guess, available globally. Meaning, you can use any of the objects or values available on the object within JS files. Global objects contain all of the objects, values, and methods that can be used in a node.js file without needing to import functionality. Check out the Node.js Docs to see more of the global object at https://nodejs.org.api/globals.html
+// Everything on the global object is as you would guess, available globally. Meaning, you can use any of the objects or values available on the object within JS files. Global objects contain all of the objects, values, and methods that can be used in a node.js file without needing to include or require any other modules. Check out the Node.js Docs to see more of the global object at https://nodejs.org.api/globals.html
